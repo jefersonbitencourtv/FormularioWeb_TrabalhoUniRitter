@@ -1,5 +1,5 @@
 # FormularioWeb_TrabalhoUniRitter
-Este é um trabalho antigo utiliza o xampp . 
+Este é um trabalho antigo, utiliza o xampp e mysql . 
 A pasta do projeto deve ficar dentro do htdocs.
 O file banco contém as instruções para criar o banco.
 
